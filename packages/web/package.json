@@ -1,0 +1,33 @@
+{
+  "name": "rttyb-web",
+  "version": "0.0.0",
+  "description": "Broswer extenstion for rttyb bookmark utility",
+  "keywords": [
+    "bookmarks",
+    "chrome",
+    "firefox",
+    "productivity",
+    "react"
+  ],
+  "author": "George Bockari <bitwhys@gmail.com>",
+  "homepage": "https://github.com/bitwhys/rttyb#readme",
+  "license": "MIT",
+  "main": "lib/web.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitwhys/rttyb.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/bitwhys/rttyb/issues"
+  }
+}
