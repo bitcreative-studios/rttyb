@@ -1,0 +1,15 @@
+{
+  "private": false,
+  "repository": "git@github.com:bitwhys/rttyb.git",
+  "author": "George Bockari <bitwhys@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "lerna run test",
+    "new-version": "lerna version --conventional-commits --yes",
+    "diff": "lerna diff"
+  },
+  "name": "rttyb",
+  "devDependencies": {
+    "lerna": "^3.15.0"
+  }
+}
